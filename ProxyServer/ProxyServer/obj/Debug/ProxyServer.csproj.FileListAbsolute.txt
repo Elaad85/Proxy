@@ -1,0 +1,11 @@
+C:\Users\82251\Desktop\Ass4\ProxyServer\ProxyServer\bin\Debug\ProxyServer.exe.config
+C:\Users\82251\Desktop\Ass4\ProxyServer\ProxyServer\bin\Debug\ProxyServer.exe
+C:\Users\82251\Desktop\Ass4\ProxyServer\ProxyServer\bin\Debug\ProxyServer.pdb
+C:\Users\82251\Desktop\Ass4\ProxyServer\ProxyServer\obj\Debug\ProxyServer.exe
+C:\Users\82251\Desktop\Ass4\ProxyServer\ProxyServer\obj\Debug\ProxyServer.pdb
+C:\Users\82251\Desktop\Ass4\ProxyServer\ProxyServer\obj\Debug\ProxyServer.csprojResolveAssemblyReference.cache
+C:\Users\82251\Desktop\Ass4\ProxyServer\ProxyServer\obj\Debug\ProxyServer.Properties.Resources.resources
+C:\Users\82251\Desktop\Ass4\ProxyServer\ProxyServer\obj\Debug\ProxyServer.csproj.GenerateResource.Cache
+C:\Users\82251\Desktop\Ass4\ProxyServer\ProxyServer\bin\Debug\HtmlAgilityPack.dll
+C:\Users\82251\Desktop\Ass4\ProxyServer\ProxyServer\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\82251\Desktop\Ass4\ProxyServer\ProxyServer\bin\Debug\HtmlAgilityPack.xml
